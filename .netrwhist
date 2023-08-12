@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/zyh/.vim'
+let g:netrw_dirhist_5='/home/zyh'
+let g:netrw_dirhist_4='/home/zyh/work'
+let g:netrw_dirhist_3='/home/zyh/work/wtimer'
+let g:netrw_dirhist_2='/home/zyh/work/wtimer/wtimerd'
+let g:netrw_dirhist_1='/home/zyh/work/wtimer'
+let g:netrw_dirhist_0='/home/zyh/work/wtimer/common'
+let g:netrw_dirhist_9='/home/zyh/work/wtimer'
+let g:netrw_dirhist_8='/home/zyh/work/wtimer/wtimerd'
+let g:netrw_dirhist_7='/home/zyh/work/wtimer'
